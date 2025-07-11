@@ -8,6 +8,8 @@ A vector font based on the logo font used in the game [TDS - Tower Defense Strat
 asmanwoks (the lead developer of TDS) has provided a full sheet containing all of the current glyphs (only uppercase letters) to the community as a bitmap image. 
 This project vectorises these uppercase letters, redesigning them when necessary, and adds new glyphs (symbols, numbers, lowercase letters, etc.) on top of it as an usable font file.
 
+The characters were drawn in [Inkscape](https://inkscape.org/), and then assembled in [FontForge](https://fontforge.org/).
+
 asmanwoks has granted permission to let me distribute this font on GitHub. (thanks!)
 
 ## download
