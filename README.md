@@ -10,7 +10,7 @@ This project vectorises these uppercase letters, redesigning them when necessary
 
 The characters were drawn in [Inkscape](https://inkscape.org/), and then assembled in [FontForge](https://fontforge.org/).
 
-asmanwoks has granted permission to let me distribute this font on GitHub. (thanks!)
+This project is **UNOFFICIAL** and **FAN-MADE**. This project not created nor affiliated by Blockage. asmanwoks has granted permission to let me distribute this font on GitHub. (thanks!)
 
 ## download
 > [!NOTE]
