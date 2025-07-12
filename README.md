@@ -16,7 +16,7 @@ This project is **UNOFFICIAL** and **FAN-MADE**. This project is not created nor
 > [!NOTE]
 > Font coverage is limited. As of now, this font only covers the ASCII characters. Not even Extended ASCII.
 
-Navigate to the [Releases](https://github.com/ArrayNone/TDS-BasicTimer/releases/) page to download the font.
+Navigate to the [Releases](https://github.com/ArrayNone/TDSTitle/releases/) page to download the font.
 
 This font has two variants:
 - **Faithful:** A variant of the font that retains the original uppercase letters as it was on the provided sheet (specifically the letters V, X, Y, and Z), and
